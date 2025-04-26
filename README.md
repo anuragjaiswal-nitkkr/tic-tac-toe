@@ -4,7 +4,7 @@
 This is a Python-based GUI Tic-Tac-Toe game built using the Tkinter library.
 Two players can play against each other on the same machine, with live score tracking and an option to replay without restarting the app!
 
-#Features ✨
+# Key Features ✨
 
 1.Two-player mode with custom player names.
 
@@ -16,7 +16,7 @@ Two players can play against each other on the same machine, with live score tra
 
 5.Option to play multiple rounds in a single session.
 
-#How to Run 🚀
+# How to Run 🚀
 
 1.Make sure you have Python 3 installed.
 
