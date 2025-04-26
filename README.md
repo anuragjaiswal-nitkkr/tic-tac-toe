@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe  🎮
 "Tic-Tac-Toe game developed by our team, led by me, as part of our Python second-semester college project."
 
 This is a Python-based GUI Tic-Tac-Toe game built using the Tkinter library.
